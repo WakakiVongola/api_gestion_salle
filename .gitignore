@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Environnements
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Prisma
+prisma/dev.db
+prisma/*.db
+prisma/*.sqlite
+prisma/migrations/
+prisma/.env
+
+# Build output
+dist/
+build/
+out/
+
+# Coverage
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.tgz
+*.bak
+*.tmp
+*.swp
+
+
+# This was inserted by `prisma init`:
+[object Promise]
