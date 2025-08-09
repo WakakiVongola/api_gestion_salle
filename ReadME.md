@@ -1,4 +1,4 @@
-# API de Gestion Intelligente des Salles de Réunion
+#(work in progress) API de Gestion Intelligente des Salles de Réunion
 
 Ce projet est une API REST qui permet la gestion intelligente des salles de réunion pour l’entreprise WorkEase.  
 Elle gère les réservations, applique des contraintes dynamiques et sécurise l’accès selon les rôles utilisateur.
